@@ -1,17 +1,17 @@
 {
-  "updated": "2026-10-26",
+  "updated": "2026-11-02",
   "sources": {
     "starlight": {
       "title": "StarLight",
       "url": "https://mobilelegends.fandom.com/wiki/StarLight",
-      "revision": 192175,
-      "modified": "2026-08-10T11:44:03Z"
+      "revision": 193922,
+      "modified": "2026-11-02T03:36:03Z"
     },
     "collector": {
       "title": "Collector Skins",
       "url": "https://mobilelegends.fandom.com/wiki/Collector_Skins",
-      "revision": 191366,
-      "modified": "2026-06-23T02:34:43Z"
+      "revision": 193921,
+      "modified": "2026-11-02T02:01:45Z"
     }
   },
   "starlight": [
@@ -819,6 +819,41 @@
       "skin": "Smouldering Fortress",
       "id": "707",
       "hero": "belerick"
+    },
+    {
+      "month": "2026-08",
+      "heroName": "Aulus",
+      "skin": "Starwake Corsair",
+      "id": "1086",
+      "hero": "aulus"
+    },
+    {
+      "month": "2026-09",
+      "heroName": "Hanzo",
+      "skin": "Fangs of Slaughter",
+      "id": "696",
+      "hero": "hanzo"
+    },
+    {
+      "month": "2026-10",
+      "heroName": "Hayabusa",
+      "skin": "Kitsune's Shadow",
+      "id": "102112",
+      "hero": "hayabusa"
+    },
+    {
+      "month": "2026-11",
+      "heroName": "Kalea",
+      "skin": "Tideborn Sailor",
+      "id": "1284",
+      "hero": "kalea"
+    },
+    {
+      "month": "2026-12",
+      "heroName": "Suyou",
+      "skin": "Frostblade Duelist",
+      "id": "1265",
+      "hero": "suyou"
     }
   ],
   "collector": [
@@ -1255,52 +1290,6 @@
       "skin": "Sunborn Monarch",
       "id": "1156",
       "hero": "xavier"
-    },
-    {
-      "month": "2026-02",
-      "none": true
-    },
-    {
-      "month": "2026-03",
-      "heroName": "Tigreal",
-      "skin": "Celestial General",
-      "id": "100610",
-      "hero": "tigreal"
-    },
-    {
-      "month": "2026-04",
-      "heroName": "Grock",
-      "skin": "Tremor of the Deep",
-      "id": "104410",
-      "hero": "grock"
-    },
-    {
-      "month": "2026-05",
-      "heroName": "Alice",
-      "skin": "Dreaming Monarch",
-      "id": "048",
-      "hero": "alice"
-    },
-    {
-      "month": "2026-06",
-      "heroName": "Kimmy",
-      "skin": "Starbound Sentry",
-      "id": "107110",
-      "hero": "kimmy"
-    },
-    {
-      "month": "2026-07",
-      "heroName": "Helcurt",
-      "skin": "Kaiju of the Deep",
-      "id": "518",
-      "hero": "helcurt"
-    },
-    {
-      "month": "2026-08",
-      "heroName": "Balmond",
-      "skin": "Vulcan Lionheart",
-      "id": "100211",
-      "hero": "balmond"
     }
   ]
 }

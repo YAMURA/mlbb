@@ -132,11 +132,11 @@
     },
     {
       "name": "Demonic Grip",
-      "description": "Argus streches out a demonic hand in the target direction, dealing to the first enemy hero or creep hit, stunning them for 0.7 seconds and pulling him and the target towards the other, then the target is slowed by 40% for 2s. If no enemy is hit, Argus pulls himself toward the hand's destination instead. Use Again: Argus dashes and performs a wide slash, dealing."
+      "description": "Argus stretches out a demonic hand in the target direction, dealing to the first enemy hero or creep hit, stunning them for 0.7 seconds and pulling him and the target towards the other, then the target is slowed by 40% for 2s. If no enemy is hit, Argus pulls himself toward the hand's destination instead. Use Again: Argus dashes and performs a wide slash, dealing."
     },
     {
       "name": "Meteoric Sword",
-      "description": "After a short charge, Argus thrusts his Demonic Blade in the target direction, dealing to enemies hit. If this skill hits an enemy hero, Argus briefly stuns them and gains 30-55% Attack Speed for 3 seconds. Meterosc Sword's damage also gains a 40% boost to Crit Chance and Crit Damage. Meteoric Sword counts as Basic Attack and can trigger Attack Effects. Attack Speed shortens the charge time."
+      "description": "After a short charge, Argus thrusts his Demonic Blade in the target direction, dealing to enemies hit. If this skill hits an enemy hero, Argus briefly stuns them and gains 30-55% Attack Speed for 3 seconds. Meteoric Sword's damage also gains a 40% boost to Crit Chance and Crit Damage. Meteoric Sword counts as Basic Attack and can trigger Attack Effects. Attack Speed shortens the charge time."
     },
     {
       "name": "Eternal Evil",
@@ -182,19 +182,19 @@
   "aulus": [
     {
       "name": "Fighting Spirit",
-      "description": "After dealing damage, Aulus adds a stack of Fighting Spirit to his axe per second for 4 seconds (up to 6 stacks). Each stack grants% Attack Speed. At max Fighting Spirit stacks, Aulus' Basic Attack is enhanced and gains Attack Range. Enhanced Basic Attack: Aulus slams his axe into the ground, dealing +(% target's Max HP ) to enemies in a line."
+      "description": "After dealing skill damage to any unit, Aulus gains 2 seconds of Enhanced Basic Attacks (accumulates up to 4 seconds). During this state, Aulus gains increased Attack Range and Attack Speed. His Basic Attack slams his axe into the ground, dealing damage to targets in a line, slowing them, and recovering per hit."
     },
     {
       "name": "Aulus, Charge!",
-      "description": "Aulus starts accumulating Fighting Spirit, removes all slow effects, and gains 30% extra Movement Speed for 5 seconds. If Aulus does not take high-level control effects within 2 seconds, he will enter the Enraged state and gain Control Immunity"
+      "description": "Aulus removes all slow effects and gains 30% extra Movement Speed for 5 seconds. If Aulus does not take high-level control effects within 2 seconds, he enters the Enraged state and gains Control Immunity for the remaining duration."
     },
     {
       "name": "The Power of Axe",
-      "description": "Aulus swings his axe, dealing to enemies in a fan-shaped area and slowing them by 30% for 2 seconds. Upon hitting an enemy, Aulus can cast this skill again to dash forward and smash the ground, dealing to nearby enemies."
+      "description": "Aulus swings his axe, dealing to enemies in a fan-shaped area, stuns them for 0.3 seconds, and slows them by 30% for 2 seconds. Aulus can cast this skill again to dash forward and smash the ground, dealing to nearby enemies. The second cast can be used even if the first cast does not hit an enemy."
     },
     {
       "name": "Cleaving Axe",
-      "description": "Aulus repeatedly swings his axe at nearby enemies, dealing each time. After 4 strikes, Aulus briefly charges before unleashing a wider slash, dealing to enemies a large area. During this skill, Aulus gains 20-40% Damage Reduction and a short burst of Movement Speed with each slash."
+      "description": "Aulus repeatedly swings his axe at nearby enemies, dealing each time. After 4 strikes, Aulus briefly charges before unleashing a wider slash, dealing to enemies in a large area. During this skill, Aulus gains 20-40% Damage Reduction and a short burst of Movement Speed with each slash."
     }
   ],
   "aurora": [
@@ -448,15 +448,15 @@
     },
     {
       "name": "Volley Shot",
-      "description": "Bruno kicks a Powerball on his next Basic Attack, dealing to the target, slowing them by 30%, and speeding up 30% for 0.5 seconds. The Powerball then bounces back toward Bruno and lands on the ground. He or allied heroes can retrieve the Powerball for another attack and reduce the cooldown of Slide by 1 second."
+      "description": "Bruno kicks a Powerball on his next Basic Attack, dealing to the target, slowing them by 30%, and gaining a 30% decaying Movement Speed boost. The Powerball then bounces back toward Bruno and lands on the ground for 3 seconds. He or allied heroes can retrieve the Powerball for another attack and reduce the cooldown of Slide by 1 second."
     },
     {
       "name": "Slide",
-      "description": "Bruno slides forward, briefly stunning enemies along the way, and gaining a Powerball at the end of the dash."
+      "description": "Bruno slides in the target direction, briefly stunning enemies along the way for 0.1 seconds, and gaining a Powerball at the end of the dash."
     },
     {
       "name": "Worldie",
-      "description": "Bruno kicks an Energy Ball at a target hero,. It knocks them back to the edge of Bruno's attack range, stuns them for 0.5 seconds, and slows them by 80% for 2 seconds. The Energy Ball then bounces among enemy units (up to 10 times), prioritizing enemy heroes. Each bounce deals."
+      "description": "Bruno kicks an Energy Ball at a target hero, dealing. It knocks them back to Bruno's maximum attack range, stuns them for 0.5 seconds, and applies a massive decaying slow. The Energy Ball then bounces among enemy units (up to 10 times), prioritizing enemy heroes. Each bounce deals."
     }
   ],
   "carmilla": [
@@ -1158,7 +1158,7 @@
     },
     {
       "name": "Meisen-e",
-      "description": "Hirara rides the waves using Meisen-e, performing up two joystick dashes (the first dash goes in her facing direction). She deals to enemies hit."
+      "description": "Hirara rides the waves using Meisen-e, performing up to two joystick dashes (the first dash goes in her facing direction). She deals to enemies hit."
     },
     {
       "name": "Kaerazu",
@@ -2186,7 +2186,7 @@
     },
     {
       "name": "Light of Retribution",
-      "description": "Rafaela strikes the three nearest enemies With Light of Retribution, dealing them, briefly revealing their positions, and slowing them by 40% for 1.5s. Enemies hit by Light of Retribution again within 5 seconds will take 20% extra damage (this effect stacks up to 3 times)."
+      "description": "Rafaela strikes the three nearest enemies with Light of Retribution, dealing them, briefly revealing their positions, and slowing them by 40% for 1.5s. Enemies hit by Light of Retribution again within 5 seconds will take 20% extra damage (this effect stacks up to 3 times)."
     },
     {
       "name": "Holy Healing",

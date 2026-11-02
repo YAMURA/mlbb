@@ -450,7 +450,7 @@
       }
     },
     "dori": {
-      "portrait": null,
+      "portrait": "/visuels/heros/dori/portrait.webp",
       "icon": null,
       "skins": {}
     },
@@ -1867,6 +1867,7 @@
       "Noble Crest": "/visuels/heros/aamon/illustrations/noble-crest.webp",
       "Cyber Assassin": "/visuels/heros/aamon/illustrations/cyber-assassin.webp",
       "Vessel of Deceit": "/visuels/heros/aamon/illustrations/vessel-of-deceit.webp",
+      "Falcon of Light": "/visuels/heros/aamon/illustrations/falcon-of-light.webp",
       "Soul Reaver": "/visuels/heros/aamon/illustrations/soul-reaver.webp"
     },
     "akai": {
@@ -1983,7 +1984,8 @@
       "Aquarius": "/visuels/heros/aurora/illustrations/aquarius.webp",
       "Kula Diamond": "/visuels/heros/aurora/illustrations/kula-diamond.webp",
       "Veil of the Celestials": "/visuels/heros/aurora/illustrations/veil-of-the-celestials.webp",
-      "Candle's Vigil": "/visuels/heros/aurora/illustrations/candle-s-vigil.webp"
+      "Candle's Vigil": "/visuels/heros/aurora/illustrations/candle-s-vigil.webp",
+      "Emerald Luminary": "/visuels/heros/aurora/illustrations/emerald-luminary.webp"
     },
     "badang": {
       "Tribal Warrior": "/visuels/heros/badang/illustrations/tribal-warrior.webp",
@@ -2016,7 +2018,8 @@
       "Warlord": "/visuels/heros/bane/illustrations/warlord.webp",
       "Underworld Outlaw": "/visuels/heros/bane/illustrations/underworld-outlaw.webp",
       "Soul Defiler": "/visuels/heros/bane/illustrations/soul-defiler.webp",
-      "Lord of Scalding Seas": "/visuels/heros/bane/illustrations/lord-of-scalding-seas.webp"
+      "Lord of Scalding Seas": "/visuels/heros/bane/illustrations/lord-of-scalding-seas.webp",
+      "Mr. Krabs": "/visuels/heros/bane/illustrations/mr-krabs.webp"
     },
     "barats": {
       "Dino Rider": "/visuels/heros/barats/illustrations/dino-rider.webp",
@@ -2199,6 +2202,9 @@
       "Fairytaler": "/visuels/heros/diggie/illustrations/fairytaler.webp",
       "Underwood Steward": "/visuels/heros/diggie/illustrations/underwood-steward.webp"
     },
+    "dori": {
+      "Shepherd of Smiles": "/visuels/heros/dori/illustrations/shepherd-of-smiles.webp"
+    },
     "dyrroth": {
       "Prince of the Abyss": "/visuels/heros/dyrroth/illustrations/prince-of-the-abyss.webp",
       "Scalebore": "/visuels/heros/dyrroth/illustrations/scalebore.webp",
@@ -2372,7 +2378,8 @@
       "Codename: Rhino": "/visuels/heros/grock/illustrations/codename-rhino.webp",
       "Ancient Golem": "/visuels/heros/grock/illustrations/ancient-golem.webp",
       "Wasteland Psycho": "/visuels/heros/grock/illustrations/wasteland-psycho.webp",
-      "Tremor of the Deep": "/visuels/heros/grock/illustrations/tremor-of-the-deep.webp"
+      "Tremor of the Deep": "/visuels/heros/grock/illustrations/tremor-of-the-deep.webp",
+      "Colossus of Light": "/visuels/heros/grock/illustrations/colossus-of-light.webp"
     },
     "guinevere": {
       "Ms. Violet": "/visuels/heros/guinevere/illustrations/ms-violet.webp",
@@ -2575,7 +2582,8 @@
       "Exorcist Kagura": "/visuels/heros/kagura/illustrations/exorcist-kagura.webp",
       "Beyond the Clouds Kagura": "/visuels/heros/kagura/illustrations/beyond-the-clouds-kagura.webp",
       "Jade Blossom": "/visuels/heros/kagura/illustrations/jade-blossom.webp",
-      "Lady Parasol": "/visuels/heros/kagura/illustrations/lady-parasol.webp"
+      "Lady Parasol": "/visuels/heros/kagura/illustrations/lady-parasol.webp",
+      "Feast of Eternity": "/visuels/heros/kagura/illustrations/feast-of-eternity.webp"
     },
     "kaja": {
       "Nazar King": "/visuels/heros/kaja/illustrations/nazar-king.webp",
@@ -2669,7 +2677,8 @@
       "Vulcan": "/visuels/heros/lapu-lapu/illustrations/vulcan.webp",
       "Special Force": "/visuels/heros/lapu-lapu/illustrations/special-force.webp",
       "Son of the Wild": "/visuels/heros/lapu-lapu/illustrations/son-of-the-wild.webp",
-      "Adlaw's Chosen": "/visuels/heros/lapu-lapu/illustrations/adlaw-s-chosen.webp"
+      "Adlaw's Chosen": "/visuels/heros/lapu-lapu/illustrations/adlaw-s-chosen.webp",
+      "Aurora Gaming PH": "/visuels/heros/lapu-lapu/illustrations/aurora-gaming-ph.webp"
     },
     "layla": {
       "Energy Gunner": "/visuels/heros/layla/illustrations/energy-gunner.webp",
